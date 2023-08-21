@@ -8,8 +8,8 @@
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
-  "name": "phpchv",
-  "description": null,
+  "name": "react-tic-tac-toe",
+  "description": "React Tic Tac Toe Game",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
