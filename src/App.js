@@ -1,3 +1,13 @@
-export default function Square() {
-  return <button className="square">X</button>;
-}
+import React from "react";
+
+import Board from "./components/Board";
+
+export default function App() {
+  return (
+    <div className="game">
+      <div className="game-board">
+        <Board />
+      </div>
+    </div>
+  );
+};
